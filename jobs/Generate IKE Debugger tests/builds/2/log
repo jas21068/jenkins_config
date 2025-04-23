@@ -1,0 +1,93 @@
+Started by user [8mha:////4Ga+1UK05yFezxFaRbqmF35LQcVwfr3gKu1lt16II1/zAAAAlx+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAzBEgZu/dLi1CL9nNLsxGIAizXlXMAAAAA=[0mLukas Vann Struth
+[8mha:////4BqdwHXKN3JdXe7MCtxGITiZo1768jCkq5Hv+AG+9F+aAAAAoh+LCAAAAAAAAP9tjTEOwjAQBM8BClpKHuFItIiK1krDC0x8GCfWnbEdkooX8TX+gCESFVvtrLSa5wtWKcKBo5UdUu8otU4GP9jS5Mixv3geZcdn2TIl9igbHBs2eJyx4YwwR1SwULBGaj0nRzbDRnX6rmuvydanHMu2V1A5c4MHCFXMWcf8hSnC9jqYxPTz/BXAFEIGsfuclm8zQVqFvQAAAA==[0m[Pipeline] Start of Pipeline
+[8mha:////4D88XGniwVUiXe3nogYGrCa1Qn4lWfdSlivXgecoHNs9AAAApR+LCAAAAAAAAP9tjTEOwjAUQ3+KOrAycohUghExsUZZOEFIQkgb/d8mKe3EibgadyBQiQlLlmxL1nu+oE4RjhQdby12HpP2vA+jK4lPFLtroIm3dOGaMFGwXNpJkrGnpUrKFhaxClYC1hZ1oOTRZdiIVt1VExS65pxj2Q4CKm8GeAAThZxVzN8yR9jeRpMIf5y/AJj7DGxXvP/86jduZBmjwAAAAA==[0m[Pipeline] node
+Running on [8mha:////4GhZcX147Y/6ukl6g2s1+d25yPmrxUk3udDJPJ0gs8ltAAAAoR+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAz2EgZR/eT83ILSktQifY2k0sycEt3MPE19AHHxbH3KAAAA[0mJenkins in /var/lib/jenkins/.jenkins/workspace/Generate IKE Debugger tests
+[8mha:////4Cl3ut/Sz60NUpJedEVECOvXiCH7MFustN7hlNK+Sbj8AAAApR+LCAAAAAAAAP9tjTEOwjAUQ3+KOrAycoh0gA0xsUZZOEFIQkgb/d8mKe3EibgadyBQiQlLlmxL1nu+oE4RjhQdby12HpP2vA+jK4lPFLtroIm3dOGaMFGwXNpJkrGnpUrKFhaxClYC1hZ1oOTRZdiIVt1VExS65pxj2Q4CKm8GeAAThZxVzN8yR9jeRpMIf5y/AJj7DGxXvP/86jfoP95RwAAAAA==[0m[Pipeline] {
+[8mha:////4L7u0VE+HQifIZD/TEiBr8pSMqQ8j9RV19Ql+DHYv6hFAAAApR+LCAAAAAAAAP9tjTEOwjAUQ3+KOrAycoh0gQkxsUZZOEFIQkgb/d8mKe3EibgadyBQiQlLlmxL1nu+oE4RjhQdby12HpP2vA+jK4lPFLtroIm3dOGaMFGwXNpJkrGnpUrKFhaxClYC1hZ1oOTRZdiIVt1VExS65pxj2Q4CKm8GeAAThZxVzN8yR9jeRpMIf5y/AJj7DGxXvP/86jc09154wAAAAA==[0m[Pipeline] withEnv
+[8mha:////4B5zYX2YPLaOT+tw1Z/1pzbcQa9+hcI35sED1YmbmVSZAAAApR+LCAAAAAAAAP9tjTEOwjAUQ3+KOrAycoh0ggUxsUZZOEFIQkgb/d8mKe3EibgadyBQiQlLlmxL1nu+oE4RjhQdby12HpP2vA+jK4lPFLtroIm3dOGaMFGwXNpJkrGnpUrKFhaxClYC1hZ1oOTRZdiIVt1VExS65pxj2Q4CKm8GeAAThZxVzN8yR9jeRpMIf5y/AJj7DGxXvP/86jek7ggRwAAAAA==[0m[Pipeline] {
+[8mha:////4AMMSKfZMJ/vrQ0V3/FGVVXJIFuJu06ejXmc1ia5KlBIAAAApR+LCAAAAAAAAP9tjTEOwjAUQ3+KOrAycoh0gwExsUZZOEFIQkgb/d8mKe3EibgadyBQiQlLlmxL1nu+oE4RjhQdby12HpP2vA+jK4lPFLtroIm3dOGaMFGwXNpJkrGnpUrKFhaxClYC1hZ1oOTRZdiIVt1VExS65pxj2Q4CKm8GeAAThZxVzN8yR9jeRpMIf5y/AJj7DGxXvP/86jcChmMxwAAAAA==[0m[Pipeline] stage
+[8mha:////4H7rFqWagNlgxkAsH7PaZf2TeKyhPBwo6Y8NQxgfF6eqAAAApR+LCAAAAAAAAP9tjTEOwjAUQ3+KOrAycoh0BAkxsUZZOEFIQkgb/d8mKe3EibgadyBQiQlLlmxL1nu+oE4RjhQdby12HpP2vA+jK4lPFLtroIm3dOGaMFGwXNpJkrGnpUrKFhaxClYC1hZ1oOTRZdiIVt1VExS65pxj2Q4CKm8GeAAThZxVzN8yR9jeRpMIf5y/AJj7DGxXvP/86jfpX/cvwAAAAA==[0m[Pipeline] { (Setup Working Environment)
+[8mha:////4JoW1Z024EADJtqIuIjyHwa1tshRA5PKpaqFF1Z+zyUUAAAAoh+LCAAAAAAAAP9tjTEOAiEURD9rLGwtPQTbaoyVLaHxBMgiwpL/WWDdrTyRV/MOEjexcpJJ5k3zXm9Y5wQnSpZ7g73DrB2PYbR18YlSfws0cU9XrgkzBcOlmSR15rygpGJgCWtgJWBjUAfKDm2BrfDqodqg0LaXkup3FNC4boAnMFHNRaXyhTnB7j52mfDn+SuAORZg+9pD/AAeoCAqvAAAAA==[0m[Pipeline] sh
++ cd /home/lukas/lvs-dev/gui_ike_debugger_reforked
++ git pull --no-rebase
+From github.com:lvannstruth-ftnt/gui_ike_debugger_reforked
+   b7c0c89..1cc065f  main       -> origin/main
+Updating b7c0c89..1cc065f
+Fast-forward
+ src/app.py                                                  | 12 ++++++++++--
+ src/tests/logfiles/fake_negotiation_timeout.txt             |  5 +++++
+ .../validated_outputs/IKE_LOG_DH_grouo_known_issue.json     |  2 +-
+ src/tests/validated_outputs/IKE_LOG_PFS_mismatch.json       |  2 +-
+ .../validated_outputs/IKE_LOG_RADIUS_IKEv1_TIMEOUT.json     |  2 +-
+ src/tests/validated_outputs/IKE_LOG_SAML_authd_working.json |  2 +-
+ src/tests/validated_outputs/IKE_LOG_SAML_bug_1.json         |  2 +-
+ src/tests/validated_outputs/IKE_LOG_SAML_cert_issue.json    |  2 +-
+ .../IKE_LOG_SAML_group_attribute_mismatch.json              |  2 +-
+ src/tests/validated_outputs/IKE_LOG_SAML_no_policy.json     |  2 +-
+ .../IKE_LOG_SAML_non_working_group_mismatch.json            |  2 +-
+ .../IKE_LOG_SAML_username_attribute_mismatch.json           |  2 +-
+ src/tests/validated_outputs/IKE_LOG_SAML_working.json       |  2 +-
+ src/tests/validated_outputs/IKE_LOG_SAML_working_2.json     |  2 +-
+ .../IKE_LOG_SAML_working_multiple_groups.json               |  2 +-
+ .../validated_outputs/IKE_LOG_V1_ldap_PSK_Mismatch.json     |  2 +-
+ .../validated_outputs/IKE_LOG_V1_ldap_non_reachable_1.json  |  2 +-
+ .../validated_outputs/IKE_LOG_V1_ldap_non_reachable_2.json  |  2 +-
+ .../IKE_LOG_V1_ldap_non_working_pswd_1.json                 |  2 +-
+ .../IKE_LOG_V1_ldap_non_working_pswd_2.json                 |  2 +-
+ src/tests/validated_outputs/IKE_LOG_V1_ldap_working.json    |  2 +-
+ .../IKE_LOG_V1_local_pwd_non_working_1.json                 |  2 +-
+ .../IKE_LOG_V1_local_pwd_non_working_2.json                 |  2 +-
+ .../IKE_LOG_V1_local_pwd_working copy.json                  |  2 +-
+ .../validated_outputs/IKE_LOG_V1_radius_DNS_Issues.json     |  2 +-
+ .../validated_outputs/IKE_LOG_V1_radius_not_reachable.json  |  2 +-
+ .../IKE_LOG_V1_radius_password_wrong_v2.json                |  2 +-
+ .../validated_outputs/IKE_LOG_V1_radius_pswd_wrong.json     |  2 +-
+ src/tests/validated_outputs/IKE_LOG_V1_radius_succes.json   |  2 +-
+ .../IKE_LOG_V1_radius_username_wrong_v2.json                |  2 +-
+ .../validated_outputs/IKE_LOG_V1_radius_wrong_account.json  |  2 +-
+ src/tests/validated_outputs/IKE_LOG_V2.json                 |  2 +-
+ src/tests/validated_outputs/IKE_LOG_V2_4500_initiator.json  |  2 +-
+ src/tests/validated_outputs/IKE_LOG_V2_4500_responder.json  |  2 +-
+ src/tests/validated_outputs/IKE_LOG_V2_Mismatch.json        |  2 +-
+ src/tests/validated_outputs/IKE_LOG_V2_PSK.json             |  2 +-
+ .../validated_outputs/IKE_LOG_V2_Partial_selector.json      |  2 +-
+ .../validated_outputs/IKE_LOG_V2_SAML_MANTIS_1023871.json   |  2 +-
+ .../validated_outputs/IKE_LOG_V2_multiple_phase_2.json      |  2 +-
+ .../IKE_LOG_V2_multiple_phase_2_initiator.json              |  2 +-
+ src/tests/validated_outputs/IKE_LOG_V2_net_un.json          |  2 +-
+ src/tests/validated_outputs/IKE_LOG_V2_overlay_2_init.json  |  2 +-
+ .../IKE_LOG_V2_ph_2_TS_mismatch_initiator.json              |  2 +-
+ .../IKE_LOG_V2_ph_2_TS_mismatch_responder.json              |  2 +-
+ .../validated_outputs/IKE_LOG_V2_policy_not_found.json      |  2 +-
+ src/tests/validated_outputs/IKE_LOG_V2_rekey.json           |  2 +-
+ src/tests/validated_outputs/IKE_LOG_auth_response.json      |  2 +-
+ src/tests/validated_outputs/IKE_LOG_init_no_policy.json     |  2 +-
+ src/tests/validated_outputs/IKE_LOG_passive_mode.json       |  2 +-
+ src/tests/validated_outputs/IKE_LOG_peer_id.json            |  2 +-
+ .../validated_outputs/IKE_LOG_pwd_LVS_radius_timeout.json   |  2 +-
+ src/tests/validated_outputs/IKE_LOG_pwd_mismatch.json       |  2 +-
+ src/tests/validated_outputs/IKE_LOG_pwd_psk_mismatch.json   |  2 +-
+ src/tests/validated_outputs/IKE_LOG_pwd_radius_auth.json    |  2 +-
+ .../validated_outputs/IKE_LOG_pwd_radius_auth_cert.json     |  2 +-
+ .../validated_outputs/IKE_LOG_pwd_radius_auth_fail.json     |  2 +-
+ src/tests/validated_outputs/IKE_LOG_retrans.json            |  2 +-
+ src/tests/validated_outputs/IKE_Log_cert_auth.json          |  2 +-
+ src/tests/validated_outputs/IKE_Log_cert_auth_fail.json     |  2 +-
+ src/tests/validated_outputs/IKE_Log_combined_all.json       |  2 +-
+ src/tests/validated_outputs/IKE_SAMPLE_LOG.json             |  2 +-
+ src/tests/validated_outputs/IKE_V1_pwd_mismatch copy.json   |  2 +-
+ src/tests/validated_outputs/fake_VPN_NETWORK_ID.json        |  2 +-
+ src/tests/validated_outputs/fake_gw_validation.json         |  2 +-
+ src/tests/validated_outputs/fake_ikev1_isakmp_delete.json   | 13 ++++++++-----
+ src/tests/validated_outputs/ike_fnbamd_local.json           |  2 +-
+ src/tests/validated_outputs/mani_sir_log.json               |  2 +-
+ 67 files changed, 87 insertions(+), 71 deletions(-)
+ create mode 100644 src/tests/logfiles/fake_negotiation_timeout.txt
+[8mha:////4Mo93zlCO5k3jT47OPXwiCeg/H9b5FX9TWbwXBstb5qiAAAAox+LCAAAAAAAAP9tjTEOwjAQBDdBFLSUPMKBDglR0VppeIFJjHFi3QX7QlLxIr7GH4iIRMVWO9PM641lijhydKqx1HpKlVdd6N301MCxvQYeVMMXVTElDlaVdii5tqcZSxaLeVmOhcbKUhU4eXKCtW7MwxTBkCvOEid30Mh9fccTmZ7KYqJ8YYzY3Po6Mf06fwMYu06Q77aCbP8Brmfz270AAAA=[0m[Pipeline] }
+[8mha:////4FUhOUWe8HQtNm1j3p7ijywvWFHrWjaOaOAmzqPk1GvmAAAAox+LCAAAAAAAAP9tjTESgjAQRT84FraWHiIMlYVjZZuh8QQRYgxkdjFZhMoTeTXvICMzVv7qv9e81xvrFHHk6FRrqfOUaq/6MLj5qZFjdw08qpYvqmZKHKyq7FhxY08LViwWy7IcK42NpTpw8uQEW92ahymCIVecJc7uoJH75o4nMj2XxUT5whSxuw1NYvp1/gYw9b0gL0tBtv8Aj1Msdr0AAAA=[0m[Pipeline] // stage
+[8mha:////4Ls+45oFoaX6vbWd/X1ip8Z7hDi2rP23WMEHoDGA6x9sAAAAox+LCAAAAAAAAP9tjTEOwjAQBDdBFLSUPMIRFDSIitZKwwtMYowT6y7YF5KKF/E1/kBEJCq22plmXm8sU8SRo1ONpdZTqrzqQu+mpwaO7TXwoBq+qIopcbCqtEPJtT3NWLJYzMtyLDRWlqrAyZMTrHVjHqYIhlxxlji5g0bu6zueyPRUFhPlC2PE5tbXienX+RvA2HWCfLsTZPsPyRmLRr0AAAA=[0m[Pipeline] }
+[8mha:////4NuXaUgR3vM5zG0aTf6OpP8hANJBJp7ERzdZYtM3xWdfAAAAox+LCAAAAAAAAP9tjTEOwjAQBDdBFLSUPMIRQlSIitZKwwtMYowT6y7YF5KKF/E1/kBEJCq22plmXm8sU8SRo1ONpdZTqrzqQu+mpwaO7TXwoBq+qIopcbCqtEPJtT3NWLJYzMtyLDRWlqrAyZMTrHVjHqYIhlxxlji5g0bu6zueyPRUFhPlC2PE5tbXienX+RvA2HWCfLsTZPsPw2Hi4r0AAAA=[0m[Pipeline] // withEnv
+[8mha:////4CRayzyjcJbBivGs+iuPKl9tWfdxi0Iq4oJP7XGIaR4iAAAAox+LCAAAAAAAAP9tjbEOgjAURS8YB1dHP6LEhM04uTYsfkGFWgvNe9g+hMkv8tf8B4kkTt7pnrOc1xvrFHHk6FRrqfOUaq/6MLj5qZFjdw08qpYvqmZKHKyq7FhxY08LViwWy7IcK42NpTpw8uQEW92ahymCIVecJc7uoJH75o4nMj2XxUT5whSxuw1NYvp1/gYw9b0g35eCrPwARY3FJ70AAAA=[0m[Pipeline] }
+[8mha:////4FuS8Efn363nsWypFkZ+M6ocDIIkGi9O8xMZIeiZujbpAAAAox+LCAAAAAAAAP9tjTEOwjAQBDdBFLSUPMIRQlSIitZKwwtMYowT6y7YF5KKF/E1/kBEJCq22plmXm8sU8SRo1ONpdZTqrzqQu+mpwaO7TXwoBq+qIopcbCqtEPJtT3NWLJYzMtyLDRWlqrAyZMTrHVjHqYIhlxxlji5g0bu6zueyPRUFhPlC2PE5tbXienX+RvA2HWCfLsXZLsPVjHBhL0AAAA=[0m[Pipeline] // node
+[8mha:////4DLoXTVXarBi1xlh87jgUptvQgZuEU76J1sfCYDt8JoDAAAAox+LCAAAAAAAAP9tjTEOwjAQBDdBFLSUPMIRFDSIitZKwwtMYowT6y7YF5KKF/E1/kBEJCq22plmXm8sU8SRo1ONpdZTqrzqQu+mpwaO7TXwoBq+qIopcbCqtEPJtT3NWLJYzMtyLDRWlqrAyZMTrHVjHqYIhlxxlji5g0bu6zueyPRUFhPlC2PE5tbXienX+RvA2HWCfLsXZLsPEHtmtL0AAAA=[0m[Pipeline] End of Pipeline
+Finished: SUCCESS
