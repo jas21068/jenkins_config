@@ -276,11 +276,20 @@
     <org.jenkinsci.plugins.workflow.cps.EnvActionImpl plugin="workflow-cps@4106.v7a_8a_8176d450">
       <env class="tree-map"/>
     </org.jenkinsci.plugins.workflow.cps.EnvActionImpl>
+    <jenkins.metrics.impl.SubTaskTimeInQueueAction plugin="metrics@4.2.30-468.v5973151f8cfc">
+      <queuingDurationMillis>3</queuingDurationMillis>
+      <blockedDurationMillis>0</blockedDurationMillis>
+      <buildableDurationMillis>1</buildableDurationMillis>
+      <waitingDurationMillis>0</waitingDurationMillis>
+      <executingDurationMillis>21483</executingDurationMillis>
+      <workUnitCount>1</workUnitCount>
+    </jenkins.metrics.impl.SubTaskTimeInQueueAction>
   </actions>
   <queueId>83</queueId>
   <timestamp>1745431906741</timestamp>
   <startTime>1745431906743</startTime>
-  <duration>0</duration>
+  <result>SUCCESS</result>
+  <duration>21615</duration>
   <charset>UTF-8</charset>
   <keepLog>false</keepLog>
   <execution class="org.jenkinsci.plugins.workflow.cps.CpsFlowExecution">
@@ -376,7 +385,7 @@
     <timings class="map">
       <entry>
         <string>flowNode</string>
-        <long>95699559</long>
+        <long>125477293</long>
       </entry>
       <entry>
         <string>classLoad</string>
@@ -384,11 +393,11 @@
       </entry>
       <entry>
         <string>runQueue</string>
-        <long>446733092</long>
+        <long>623146644</long>
       </entry>
       <entry>
         <string>run</string>
-        <long>524078011</long>
+        <long>617041045</long>
       </entry>
       <entry>
         <string>parse</string>
@@ -396,17 +405,17 @@
       </entry>
       <entry>
         <string>saveProgram</string>
-        <long>263498566</long>
+        <long>299446064</long>
       </entry>
     </timings>
     <internalCalls class="sorted-set"/>
     <sandbox>true</sandbox>
-    <iota>45</iota>
-    <head>1:45</head>
-    <start>2</start>
-    <done>false</done>
+    <iota>59</iota>
+    <head>1:59</head>
+    <done>true</done>
     <resumeBlocked>false</resumeBlocked>
+    <storageDir>workflow-completed</storageDir>
   </execution>
-  <completed>false</completed>
+  <completed>true</completed>
   <checkouts class="hudson.util.PersistedList"/>
 </flow-build>

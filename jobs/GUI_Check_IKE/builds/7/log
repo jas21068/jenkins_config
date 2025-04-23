@@ -352,3 +352,47 @@ Running in /var/lib/jenkins/.jenkins/workspace/GUI_Check_IKE/gui_ike_debugger
 ++ export VIRTUAL_ENV_PROMPT
 ++ hash -r
 + python3 src/tests/check_coverage.py
+<unknown>:58: SyntaxWarning: invalid escape sequence '\d'
+<unknown>:465: SyntaxWarning: invalid escape sequence '\d'
+/home/jaskirat/gui_project/gui_ike_debugger/src/app.py:58: SyntaxWarning: invalid escape sequence '\d'
+  tuple_extractor_pattern = "ike (?:V=[a-zA-Z0-9_-]+:|)\d+:(.*?):(\d+).*? (\d+\.\d+\.\d+\.\d+):\d+->(\d+\.\d+\.\d+\.\d+):\d+.*?vrf=(\d+),\s*?id=([a-fA-F0-9]+)/[a-fA-F0-9]+"
+/home/jaskirat/gui_project/gui_ike_debugger/src/app.py:465: SyntaxWarning: invalid escape sequence '\d'
+  ike_debug_id_pattern = "ike (?:V=[a-zA-Z0-9_-]+:|)\d+:.*?:(\d+)"
+<unknown>:58: SyntaxWarning: invalid escape sequence '\d'
+<unknown>:465: SyntaxWarning: invalid escape sequence '\d'
+<unknown>:58: SyntaxWarning: invalid escape sequence '\d'
+<unknown>:465: SyntaxWarning: invalid escape sequence '\d'
+[8mha:////4O6Sj+4XcrNDqi5ItQuOWEPlphpEsr/szZx2ITYhzhoQAAAAox+LCAAAAAAAAP9tjTESwiAURH/iWNhaegjSZGwcK1uGxhNggghh/idAJJUn8mreQTQzVm6xs2+b93zBOgY4UtDMKhwMxs4w7yZdFssUhqujzCxdWEcYySkmVBbUq9OCgpKCJVUNKw4bhZ2jaFAn2HIr77JxEnVzTqF8Bw616Ud4QMWLOcmQvjAH2N2mPhL+PH8FMPsEddt+au/fiSQUTb4AAAA=[0m[Pipeline] echo
+Coverage Output:
+============================= test session starts ==============================
+platform linux -- Python 3.12.3, pytest-8.3.5, pluggy-1.5.0
+rootdir: /home/jaskirat/gui_project/gui_ike_debugger
+plugins: cov-6.1.1
+collected 100 items
+
+src/tests/test_app.py .................................................. [ 50%]
+.............................................                            [ 95%]
+src/tests/test_output_handler.py .....                                   [100%]
+
+================================ tests coverage ================================
+_______________ coverage: platform linux, python 3.12.3-final-0 ________________
+
+Coverage JSON written to file /home/jaskirat/gui_project/gui_ike_debugger/src/tests/coverage.json
+============================= 100 passed in 9.44s ==============================
+98.53372434017595
+[8mha:////4COoTy4Pnb2Ih9fbiK48+o+c1qL5QyS7Q6qKud//Pm+PAAAApB+LCAAAAAAAAP9tjTESwiAURH/iWNhaegjSZMbCsbJlaDwBJogQ5n8CRFJ5Iq/mHUQzY+UWO/u2ec8XrGOAIwXNrMLBYOwM827SZbFMYbg6yszShXWEkZxiQmVBvTotKCgpWFLVsOKwUdg5igZ1gi238i4bJ1E35xTKd+BQm36EB1S8mJMM6QtzgN1t6iPhz/NXALNPULftp/b+DcgVD1S+AAAA[0m[Pipeline] echo
+Extracted coverage: 98.53372434017595
+[8mha:////4C2OTR+uR4tVriblG/uv89E/JtK3Qzlk0AcIS1FY5pCmAAAApB+LCAAAAAAAAP9tjTESwiAURH/iWNhaegjSpHDGsbJlaDwBJogQ5n8CRFJ5Iq/mHUQzY+UWO/u2ec8XrGOAIwXNrMLBYOwM827SZbFMYbg6yszShXWEkZxiQmVBvTotKCgpWFLVsOKwUdg5igZ1gi238i4bJ1E35xTKd+BQm36EB1S8mJMM6QtzgN1t6iPhz/NXALNPULftp/b+DQcJl9O+AAAA[0m[Pipeline] echo
+✅ Coverage above threshold
+[8mha:////4G20KbyptG6AL/gsK5PvyQVc+Yw0KzCXFsVpOJEzl8tvAAAAox+LCAAAAAAAAP9tjTESwiAURH/iWNhaegjSpHEcK1uGxhNggghh/idAJJUn8mreQTQzVm6xs2+b93zBOgY4UtDMKhwMxs4w7yZdFssUhqujzCxdWEcYySkmVBbUq9OCgpKCJVUNKw4bhZ2jaFAn2HIr77JxEnVzTqF8Bw616Ud4QMWLOcmQvjAH2N2mPhL+PH8FMHufoG73n2rfiunHGb4AAAA=[0m[Pipeline] }
+[8mha:////4K3fYCDcX5SgY+IuMZh1yzCCbIGhKqKYAtD2LOoUf+5XAAAApR+LCAAAAAAAAP9tjTEOwjAQBC9BFLSUPOKCBFQoFa3lhheYxBgn1l2wHZyKF/E1/oBFJCq2WO1sM683LIOHmr3BTlNvKTQWBzeavDCx76+OE3Z8wYYpsNModZLc6tOMkqOGOUUJCwErTY3jYMlEWItOPVTlFJnqHH3+jgJK297hCYXI5qh8/MLkYXMb28D08/wVwDQMEcrDNtd+9wFVJtsGvgAAAA==[0m[Pipeline] // script
+[8mha:////4OlT4TaXvPlx12I7XD7qOYY7DXk2t9rVToHlke8HqGwiAAAApR+LCAAAAAAAAP9tjTEOwjAQBC9BFLSUPOIiEFQoFa3lhheYxBgn1l2wHZyKF/E1/oBFJCq2WO1sM683LIOHmr3BTlNvKTQWBzeavDCx76+OE3Z8wYYpsNModZLc6tOMkqOGOUUJCwErTY3jYMlEWItOPVTlFJnqHH3+jgJK297hCYXI5qh8/MLkYXMb28D08/wVwDQMEcrDNtd+9wFmxYC6vgAAAA==[0m[Pipeline] }
+[8mha:////4EGFA7T0pwkn5PCTDXmWattrdoramIUni2b9mPTkxnBUAAAApR+LCAAAAAAAAP9tjTEOwjAQBC9BFLSUPOIiEFQoFa3lhheYxBgn1l2wHZyKF/E1/oBFJCq2WO1sM683LIOHmr3BTlNvKTQWBzeavDCx76+OE3Z8wYYpsNModZLc6tOMkqOGOUUJCwErTY3jYMlEWItOPVTlFJnqHH3+jgJK297hCYXI5qh8/MLkYXMb28D08/wVwDQMEcrDLtd++wFy5h2lvgAAAA==[0m[Pipeline] // dir
+[8mha:////4PRb7W4Bw/Y6hga2TNwgfwqg1g/hyisFoxV9rUx0fBrHAAAApR+LCAAAAAAAAP9tjTEOwjAQBC9BFLSUPOKCBFQoFa3lhheYxBgn1l2wHZyKF/E1/oBFJCq2WO1sM683LIOHmr3BTlNvKTQWBzeavDCx76+OE3Z8wYYpsNModZLc6tOMkqOGOUUJCwErTY3jYMlEWItOPVTlFJnqHH3+jgJK297hCYXI5qh8/MLkYXMb28D08/wVwDQMEcrDLtd++wFBBUYZvgAAAA==[0m[Pipeline] }
+[8mha:////4NVzh1Mt5ijZ5rAyWo4pbzEsV5OQ3PuQF+zHIl7geTTPAAAApR+LCAAAAAAAAP9tjTEOwjAQBC9BFLSUPOJSAAVCqWgtN7zAJMY4se6C7eBUvIiv8QcsIlGxxWpnm3m9YRk81OwNdpp6S6GxOLjR5IWJfX91nLDjCzZMgZ1GqZPkVp9mlBw1zClKWAhYaWocB0smwlp06qEqp8hU5+jzdxRQ2vYOTyhENkfl4xcmD5vb2Aamn+evAKZhiFDud7m2hw+aG94yvgAAAA==[0m[Pipeline] // stage
+[8mha:////4Ga0IcqwnRHqpB8yP0qEqOEJ9Tz8ODR54OymKuHOzQopAAAAoh+LCAAAAAAAAP9tjTESgjAQRT84FraWHiJU2DhWthkaTxAhxkBmF5NFqDyRV/MOMjJj5a/+e817vbFOEUeOTrWWOk+p9qoPg5ufGjl218CjavmiaqbEwarKjhU39rRgxWKxLMux0thYqgMnT06w1a15mCIYcsVZ4uwOGrlv7ngi03NZTJQvTBG729Akpl/nbwBT3wvyshRk+w/PhzpvvQAAAA==[0m[Pipeline] }
+[8mha:////4Nvl5lZAyjwnFLaD0RiqO1RP3uhv9/QNyHA+iz+rRT63AAAAoh+LCAAAAAAAAP9tjTESgjAQRT84FraWHiJU2DhWthkaTxAhxkBmF5NFqDyRV/MOMjJj5a/+e817vbFOEUeOTrWWOk+p9qoPg5ufGjl218CjavmiaqbEwarKjhU39rRgxWKxLMux0thYqgMnT06w1a15mCIYcsVZ4uwOGrlv7ngi03NZTJQvTBG729Akpl/nbwBT3wvyci/Iyg+lrJOxvQAAAA==[0m[Pipeline] // withEnv
+[8mha:////4KOA9nfH2gsM1iFPYkuWTn2xij8LGt3mCmhE62qzqTj0AAAAox+LCAAAAAAAAP9tjTEOwjAQBDdBFLSUPMJpQBSIitZKwwtMYowT6y7YF5KKF/E1/kBEJCq22plmXm8sU8SRo1ONpdZTqrzqQu+mpwaO7TXwoBq+qIopcbCqtEPJtT3NWLJYzMtyLDRWlqrAyZMTrHVjHqYIhlxxlji5g0bu6zueyPRUFhPlC2PE5tbXienX+RvA2HWCfLcXZNsPg7X0+70AAAA=[0m[Pipeline] }
+[8mha:////4IFmsGVRMYIQXae7rrag/PfaVr3ucuDw4CEypyGyyy3OAAAApB+LCAAAAAAAAP9tjTEOwjAQBDdBFLSUPMIpEBISoqK10vACkxjjxLoL9oWk4kV8jT8QEYmKrXammdcbyxRx5OhUY6n1lCqvutC76amBY3sNPKiGL6piShysKu1Qcm1PM5YsFvOyHAuNlaUqcPLkBGvdmIcpgiFXnCVO7qCR+/qOJzI9lcVE+cIYsbn1dWL6df4GMHadIN/tBdn2A/G3wOe9AAAA[0m[Pipeline] // node
+[8mha:////4JuPw2vJh8+aiUMCvl1dWlD5NxLsC9kukJ5GDunj5CN4AAAApB+LCAAAAAAAAP9tjTEOwjAQBDdBFLSUPMKRkCgQoqK10vACkxjjxLoL9oWk4kV8jT8QEYmKrXammdcbyxRx5OhUY6n1lCqvutC76amBY3sNPKiGL6piShysKu1Qcm1PM5YsFvOyHAuNlaUqcPLkBGvdmIcpgiFXnCVO7qCR+/qOJzI9lcVE+cIYsbn1dWL6df4GMHadIN/tBdn2A9eup629AAAA[0m[Pipeline] End of Pipeline
+Finished: SUCCESS
