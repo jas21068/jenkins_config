@@ -1,0 +1,188 @@
+Started by timer
+[8mha:////4BqdwHXKN3JdXe7MCtxGITiZo1768jCkq5Hv+AG+9F+aAAAAoh+LCAAAAAAAAP9tjTEOwjAQBM8BClpKHuFItIiK1krDC0x8GCfWnbEdkooX8TX+gCESFVvtrLSa5wtWKcKBo5UdUu8otU4GP9jS5Mixv3geZcdn2TIl9igbHBs2eJyx4YwwR1SwULBGaj0nRzbDRnX6rmuvydanHMu2V1A5c4MHCFXMWcf8hSnC9jqYxPTz/BXAFEIGsfuclm8zQVqFvQAAAA==[0m[Pipeline] Start of Pipeline
+[8mha:////4D88XGniwVUiXe3nogYGrCa1Qn4lWfdSlivXgecoHNs9AAAApR+LCAAAAAAAAP9tjTEOwjAUQ3+KOrAycohUghExsUZZOEFIQkgb/d8mKe3EibgadyBQiQlLlmxL1nu+oE4RjhQdby12HpP2vA+jK4lPFLtroIm3dOGaMFGwXNpJkrGnpUrKFhaxClYC1hZ1oOTRZdiIVt1VExS65pxj2Q4CKm8GeAAThZxVzN8yR9jeRpMIf5y/AJj7DGxXvP/86jduZBmjwAAAAA==[0m[Pipeline] node
+Running on [8mha:////4GhZcX147Y/6ukl6g2s1+d25yPmrxUk3udDJPJ0gs8ltAAAAoR+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAz2EgZR/eT83ILSktQifY2k0sycEt3MPE19AHHxbH3KAAAA[0mJenkins in /var/lib/jenkins/.jenkins/workspace/Gui_IKE_final
+[8mha:////4Cl3ut/Sz60NUpJedEVECOvXiCH7MFustN7hlNK+Sbj8AAAApR+LCAAAAAAAAP9tjTEOwjAUQ3+KOrAycoh0gA0xsUZZOEFIQkgb/d8mKe3EibgadyBQiQlLlmxL1nu+oE4RjhQdby12HpP2vA+jK4lPFLtroIm3dOGaMFGwXNpJkrGnpUrKFhaxClYC1hZ1oOTRZdiIVt1VExS65pxj2Q4CKm8GeAAThZxVzN8yR9jeRpMIf5y/AJj7DGxXvP/86jfoP95RwAAAAA==[0m[Pipeline] {
+[8mha:////4L7u0VE+HQifIZD/TEiBr8pSMqQ8j9RV19Ql+DHYv6hFAAAApR+LCAAAAAAAAP9tjTEOwjAUQ3+KOrAycoh0gQkxsUZZOEFIQkgb/d8mKe3EibgadyBQiQlLlmxL1nu+oE4RjhQdby12HpP2vA+jK4lPFLtroIm3dOGaMFGwXNpJkrGnpUrKFhaxClYC1hZ1oOTRZdiIVt1VExS65pxj2Q4CKm8GeAAThZxVzN8yR9jeRpMIf5y/AJj7DGxXvP/86jc09154wAAAAA==[0m[Pipeline] withEnv
+[8mha:////4B5zYX2YPLaOT+tw1Z/1pzbcQa9+hcI35sED1YmbmVSZAAAApR+LCAAAAAAAAP9tjTEOwjAUQ3+KOrAycoh0ggUxsUZZOEFIQkgb/d8mKe3EibgadyBQiQlLlmxL1nu+oE4RjhQdby12HpP2vA+jK4lPFLtroIm3dOGaMFGwXNpJkrGnpUrKFhaxClYC1hZ1oOTRZdiIVt1VExS65pxj2Q4CKm8GeAAThZxVzN8yR9jeRpMIf5y/AJj7DGxXvP/86jek7ggRwAAAAA==[0m[Pipeline] {
+[8mha:////4AMMSKfZMJ/vrQ0V3/FGVVXJIFuJu06ejXmc1ia5KlBIAAAApR+LCAAAAAAAAP9tjTEOwjAUQ3+KOrAycoh0gwExsUZZOEFIQkgb/d8mKe3EibgadyBQiQlLlmxL1nu+oE4RjhQdby12HpP2vA+jK4lPFLtroIm3dOGaMFGwXNpJkrGnpUrKFhaxClYC1hZ1oOTRZdiIVt1VExS65pxj2Q4CKm8GeAAThZxVzN8yR9jeRpMIf5y/AJj7DGxXvP/86jcChmMxwAAAAA==[0m[Pipeline] stage
+[8mha:////4H7rFqWagNlgxkAsH7PaZf2TeKyhPBwo6Y8NQxgfF6eqAAAApR+LCAAAAAAAAP9tjTEOwjAUQ3+KOrAycoh0BAkxsUZZOEFIQkgb/d8mKe3EibgadyBQiQlLlmxL1nu+oE4RjhQdby12HpP2vA+jK4lPFLtroIm3dOGaMFGwXNpJkrGnpUrKFhaxClYC1hZ1oOTRZdiIVt1VExS65pxj2Q4CKm8GeAAThZxVzN8yR9jeRpMIf5y/AJj7DGxXvP/86jfpX/cvwAAAAA==[0m[Pipeline] { (Clean Workspace)
+[8mha:////4JoW1Z024EADJtqIuIjyHwa1tshRA5PKpaqFF1Z+zyUUAAAAoh+LCAAAAAAAAP9tjTEOAiEURD9rLGwtPQTbaoyVLaHxBMgiwpL/WWDdrTyRV/MOEjexcpJJ5k3zXm9Y5wQnSpZ7g73DrB2PYbR18YlSfws0cU9XrgkzBcOlmSR15rygpGJgCWtgJWBjUAfKDm2BrfDqodqg0LaXkup3FNC4boAnMFHNRaXyhTnB7j52mfDn+SuAORZg+9pD/AAeoCAqvAAAAA==[0m[Pipeline] cleanWs
+[WS-CLEANUP] Deleting project workspace...
+[WS-CLEANUP] Deferred wipeout is used...
+[WS-CLEANUP] done
+[8mha:////4Mo93zlCO5k3jT47OPXwiCeg/H9b5FX9TWbwXBstb5qiAAAAox+LCAAAAAAAAP9tjTEOwjAQBDdBFLSUPMKBDglR0VppeIFJjHFi3QX7QlLxIr7GH4iIRMVWO9PM641lijhydKqx1HpKlVdd6N301MCxvQYeVMMXVTElDlaVdii5tqcZSxaLeVmOhcbKUhU4eXKCtW7MwxTBkCvOEid30Mh9fccTmZ7KYqJ8YYzY3Po6Mf06fwMYu06Q77aCbP8Brmfz270AAAA=[0m[Pipeline] }
+[8mha:////4FUhOUWe8HQtNm1j3p7ijywvWFHrWjaOaOAmzqPk1GvmAAAAox+LCAAAAAAAAP9tjTESgjAQRT84FraWHiIMlYVjZZuh8QQRYgxkdjFZhMoTeTXvICMzVv7qv9e81xvrFHHk6FRrqfOUaq/6MLj5qZFjdw08qpYvqmZKHKyq7FhxY08LViwWy7IcK42NpTpw8uQEW92ahymCIVecJc7uoJH75o4nMj2XxUT5whSxuw1NYvp1/gYw9b0gL0tBtv8Aj1Msdr0AAAA=[0m[Pipeline] // stage
+[8mha:////4Bv/2eoy9/uVBI6Sv8FsPzhdbMjxsI0WqVsy5RHwmfKzAAAAph+LCAAAAAAAAP9tjTEOwjAQBM9BKWgpeYQjKGgQFa3lhheY2Bgn1l2wLyQVL+Jr/IFAJCq22llpNc8XlDnBgZKXjcM2YK6D7GLvpyYHSu0l0iAbOsuaMFN0UrtBk3XHGTWxgzmigIWCpcM6Ug7oGVaqMXdTRYO+OnGatr2CItgbPECoycwm8RfGBOtrbzPhz/NXAGPHIHYMxWb7OZZvfPyORMEAAAA=[0m[Pipeline] stage
+[8mha:////4CCCYdWQRb+WrVIc0K8sM9ZdXdSYHEN3L5fjGJXrM/YMAAAAph+LCAAAAAAAAP9tjTEOwjAUQ3+LOrAycohUwIiYukZZOEFoQkgb/V9+UtqJE3E17kBLJSY8WLYl673eUESGE7ETjcXWY6y96ELvpiQG4vYaaBANXURNGClYoeygyNhqqYqShUVZDisJa4t1oOjRJdjIRj90GTS68px42o4Scm/u8IRMTuSkOX3LyLC99SYS/jh/ATB2CfLdfrbD/Cw+y7kUycIAAAA=[0m[Pipeline] { (Clone Project)
+[8mha:////4MMgafMd3XznBa5Jxjjw5sSaFp+bGJfHGMrgxyWrE7W1AAAApB+LCAAAAAAAAP9tjTEOwjAQBC9BFLSUPOIiBB2iSmu54QUmNsaJdWdsh6TiRXyNPxCIRMUWq51t5vmCZYpw5GixNdQ5So3D4Hs7LRw4dhfPA7Z8xoYpsTcozSBZm3pGydnAnKKEhYCVocZzcmQzrEWr7qryimx1ynH6DgJKp2/wgEJM5qxi/sIYYXPtdWL6ef4KYAwZyu3uU/vwBgq0rvS+AAAA[0m[Pipeline] sh
++ cp -r /home/jaskirat/gui_project/gui_ike_debugger .
+[8mha:////4KaZDUdNrDbgbNn0dYzr2Rc5Enc48dVcotENnrHHpPPUAAAApB+LCAAAAAAAAP9tjTEOwjAQBC9BFLSUPOIihKgQVVrLDS8wsTFOrDtjOyQVL+Jr/IFAJCq2WO1sM88XLFOEI0eLraHOUWocBt/baeHAsbt4HrDlMzZMib1BaQbJ2tQzSs4G5hQlLASsDDWekyObYS1adVeVV2SrU47TdxBQOn2DBxRiMmcV8xfGCJtrrxPTz/NXAGMIGcrt/lO7N7BnLt++AAAA[0m[Pipeline] }
+[8mha:////4O4cGaM5Kzq1h47Gk+Wvfuu8TZ8IgOokLwNtAko5M/qSAAAApB+LCAAAAAAAAP9tjTEOwjAQBC9BFLSUPOIiKGgQVVrLDS8wsTFOrDtjOyQVL+Jr/IFAJCq2WO1sM88XLFOEI0eLraHOUWocBt/baeHAsbt4HrDlMzZMib1BaQbJ2tQzSs4G5hQlLASsDDWekyObYS1adVeVV2SrU47TdxBQOn2DBxRiMmcV8xfGCJtrrxPTz/NXAGMIGcrt/lO7N4glvS6+AAAA[0m[Pipeline] // stage
+[8mha:////4KaoC3VnT05tlm6bTKmLj+apZRWVh8mukh3iPIoc4wlVAAAAph+LCAAAAAAAAP9tjTEOwjAQBM9BKWgpeYQjGigQFa3lhheY2Bgn1l2wLyQVL+Jr/IFAJCq22llpNc8XlDnBgZKXjcM2YK6D7GLvpyYHSu0l0iAbOsuaMFN0UrtBk3XHGTWxgzmigIWCpcM6Ug7oGVaqMXdTRYO+OnGatr2CItgbPECoycwm8RfGBOtrbzPhz/NXAGPHILYMxWb3OZZvz21DFMEAAAA=[0m[Pipeline] stage
+[8mha:////4OEAhhKvQIbDXWvcDBy+LWbZLovyxz2YxSP+rwOBIFWnAAAApx+LCAAAAAAAAP9tjTEOwjAUQ3+LOrAycohUTCAhpq5RFk4QmhDSRv+Xn5R24kRcjTvQUokJD5ZtyXqvNxSR4UTsRGOx9RhrL7rQuymJgbi9BhpEQxdRE0YKVig7KDK2WqqiZGFRlsNKwtpiHSh6dAk2stEPXQaNrjwnnrajhNybOzwhkxM5aU7fMjJsb72JhD/OXwCMXYJ8t5/tMD+LD0rlhNLCAAAA[0m[Pipeline] { (Run Tests Verbosely)
+[8mha:////4B6ZpwgjPGdiWO/Ho8rEbsgETfrqozjXC/YYMV5qJgz3AAAApx+LCAAAAAAAAP9tjTEOwjAUQ3+LOrAycohUbCDE1DXKwglCE0La6P/yk9JOnIircQdaKjHhwbItWe/1hiIynIidaCy2HmPtRRd6NyUxELfXQINo6CJqwkjBCmUHRcZWS1WULCzKclhJWFusA0WPLsFGNvqhy6DRlefE03aUkHtzhydkciInzelbRobtrTeR8Mf5C4CxS5Dv9rMd5mfxASnCIIrCAAAA[0m[Pipeline] dir
+Running in /home/jaskirat/gui_project/gui_ike_debugger
+[8mha:////4Es6fd8HhnjOqTB+tEUWaHxUxK7VdhZ0D2vOJxk7hxHIAAAApx+LCAAAAAAAAP9tjTEOwjAUQ3+LOrAycogU2BDqxBp14QShCSFp9H9JUtKJE3E17kCgEhMeLNuS9Z4vqIKHhrxmVmFvMHSGDW7UObFEvr84SszSmXWEgZxirUotSXWca0tRwayihAWHpcLOUTCoI6y4FXdRO4G6PkWftwOH0sgbPKDgmRyFj98yeVhfRxkIf5y/AJiGCOV2n223+TyrN7xWSV3CAAAA[0m[Pipeline] {
+[8mha:////4ONVHBzJuxytvl5GYb4H9Ku/54dzRAA/1IEdi7hqyF+YAAAAph+LCAAAAAAAAP9tjTEOwjAUQ3+LOrAycogUWBFT1ygLJwhNCGmj/8tPSjtxIq7GHWipxIQHy7ZkvdcbishwInaisdh6jLUXXejdlMRA3F4DDaKhi6gJIwUrlB0UGVstVVGysCjLYSVhbbEOFD26BBvZ6Icug0ZXnhNP21FC7s0dnpDJiZw0p28ZGba33kTCH+cvAMYuQX7Yzbafn8UHbGnGmsIAAAA=[0m[Pipeline] script
+[8mha:////4LXI/JiBfkuViI4RpHyrrt/s/CzJtdsDT1mHNWGh7JiZAAAAph+LCAAAAAAAAP9tjTEOwjAUQ3+DOrAycohUdEVMrFEXThCaEJJG/7dJSjpxIq7GHWipxIQHy7ZkvdcbyhjgRMFwp7GzGFvLez+aOfFMobt5ytzRlbeEkbzmjc4NKX1ea0NJw6qCwUbAVmPrKVo0CXbCyYesvERTXVKYt6MAZtUATyjETE4ypG+ZAuzvo4qEP85fAEx9AlYfFquXZ/kBAsTc3cIAAAA=[0m[Pipeline] {
+[8mha:////4OEZJsilUFEUy0f6rUHGL4MEVC6Ew1KStTP3DTPlGOykAAAAox+LCAAAAAAAAP9tjTESwiAURH/iWNhaeggyE0vHypah8QSYIEKY/wkQSeWJvJp3EM2MlVvs7NvmPV+wjgGOFDSzCgeDsTPMu0mXxTKF4eooM0sX1hFGcooJlQX16rSgoKRgSVXDisNGYecoGtQJttzKu2ycRN2cUyjfgUNt+hEeUPFiTjKkL8wBdrepj4Q/z18BzD5B3baf2vs3w5BRkb4AAAA=[0m[Pipeline] sh
++ pytest -v
+============================= test session starts ==============================
+platform linux -- Python 3.12.3, pytest-7.4.4, pluggy-1.4.0 -- /usr/bin/python3
+cachedir: .pytest_cache
+rootdir: /home/jaskirat/gui_project/gui_ike_debugger
+plugins: cov-4.1.0
+collecting ... collected 100 items
+
+src/tests/test_app.py::test_ike_parser[some text\ncomes from 10.0.0.1\nSA proposal chosen: AES256-SHA256\nmore text-expected_output0] PASSED [  1%]
+src/tests/test_app.py::test_ike_parser[comes 192.168.1.1\nprocessing notify type NO_PROPOSAL_CHOSEN-expected_output1] PASSED [  2%]
+src/tests/test_app.py::test_ike_parser[rekey in progress\ninfo message\nRETRANSMIT_CREATE_CHILD\nlog line\nRETRANSMIT_CREATE_CHILD\nanother log\nRETRANSMIT_CREATE_CHILD\nend of logs-expected_output2] PASSED [  3%]
+src/tests/test_app.py::test_ike_parser[ignoring request to establish IPsec SA, no policy configured\nIPsec SA connect 6 1.1.1.1->2.2.2.2:0-expected_output3] PASSED [  4%]
+src/tests/test_app.py::test_ike_parser_json[IKE_LOG_DH_grouo_known_issue.txt-IKE_LOG_DH_grouo_known_issue.json] PASSED [  5%]
+src/tests/test_app.py::test_ike_parser_json[IKE_LOG_PFS_mismatch.txt-IKE_LOG_PFS_mismatch.json] PASSED [  6%]
+src/tests/test_app.py::test_ike_parser_json[IKE_LOG_RADIUS_IKEv1_TIMEOUT.txt-IKE_LOG_RADIUS_IKEv1_TIMEOUT.json] PASSED [  7%]
+src/tests/test_app.py::test_ike_parser_json[IKE_LOG_SAML_authd_working.txt-IKE_LOG_SAML_authd_working.json] PASSED [  8%]
+src/tests/test_app.py::test_ike_parser_json[IKE_LOG_SAML_bug_1.txt-IKE_LOG_SAML_bug_1.json] PASSED [  9%]
+src/tests/test_app.py::test_ike_parser_json[IKE_LOG_SAML_cert_issue.txt-IKE_LOG_SAML_cert_issue.json] PASSED [ 10%]
+src/tests/test_app.py::test_ike_parser_json[IKE_LOG_SAML_group_attribute_mismatch.txt-IKE_LOG_SAML_group_attribute_mismatch.json] PASSED [ 11%]
+src/tests/test_app.py::test_ike_parser_json[IKE_LOG_SAML_no_policy.txt-IKE_LOG_SAML_no_policy.json] PASSED [ 12%]
+src/tests/test_app.py::test_ike_parser_json[IKE_LOG_SAML_non_working_group_mismatch.txt-IKE_LOG_SAML_non_working_group_mismatch.json] PASSED [ 13%]
+src/tests/test_app.py::test_ike_parser_json[IKE_LOG_SAML_username_attribute_mismatch.txt-IKE_LOG_SAML_username_attribute_mismatch.json] PASSED [ 14%]
+src/tests/test_app.py::test_ike_parser_json[IKE_LOG_SAML_working.txt-IKE_LOG_SAML_working.json] PASSED [ 15%]
+src/tests/test_app.py::test_ike_parser_json[IKE_LOG_SAML_working_2.txt-IKE_LOG_SAML_working_2.json] PASSED [ 16%]
+src/tests/test_app.py::test_ike_parser_json[IKE_LOG_SAML_working_multiple_groups.txt-IKE_LOG_SAML_working_multiple_groups.json] PASSED [ 17%]
+src/tests/test_app.py::test_ike_parser_json[IKE_LOG_V1_ldap_PSK_Mismatch.txt-IKE_LOG_V1_ldap_PSK_Mismatch.json] PASSED [ 18%]
+src/tests/test_app.py::test_ike_parser_json[IKE_LOG_V1_ldap_non_reachable_1.txt-IKE_LOG_V1_ldap_non_reachable_1.json] PASSED [ 19%]
+src/tests/test_app.py::test_ike_parser_json[IKE_LOG_V1_ldap_non_reachable_2.txt-IKE_LOG_V1_ldap_non_reachable_2.json] PASSED [ 20%]
+src/tests/test_app.py::test_ike_parser_json[IKE_LOG_V1_ldap_non_working_pswd_1.txt-IKE_LOG_V1_ldap_non_working_pswd_1.json] PASSED [ 21%]
+src/tests/test_app.py::test_ike_parser_json[IKE_LOG_V1_ldap_non_working_pswd_2.txt-IKE_LOG_V1_ldap_non_working_pswd_2.json] PASSED [ 22%]
+src/tests/test_app.py::test_ike_parser_json[IKE_LOG_V1_ldap_working.txt-IKE_LOG_V1_ldap_working.json] PASSED [ 23%]
+src/tests/test_app.py::test_ike_parser_json[IKE_LOG_V1_local_pwd_non_working_1.txt-IKE_LOG_V1_local_pwd_non_working_1.json] PASSED [ 24%]
+src/tests/test_app.py::test_ike_parser_json[IKE_LOG_V1_local_pwd_non_working_2.txt-IKE_LOG_V1_local_pwd_non_working_2.json] PASSED [ 25%]
+src/tests/test_app.py::test_ike_parser_json[IKE_LOG_V1_local_pwd_working copy.txt-IKE_LOG_V1_local_pwd_working copy.json] PASSED [ 26%]
+src/tests/test_app.py::test_ike_parser_json[IKE_LOG_V1_radius_DNS_Issues.txt-IKE_LOG_V1_radius_DNS_Issues.json] PASSED [ 27%]
+src/tests/test_app.py::test_ike_parser_json[IKE_LOG_V1_radius_not_reachable.txt-IKE_LOG_V1_radius_not_reachable.json] PASSED [ 28%]
+src/tests/test_app.py::test_ike_parser_json[IKE_LOG_V1_radius_password_wrong_v2.txt-IKE_LOG_V1_radius_password_wrong_v2.json] PASSED [ 29%]
+src/tests/test_app.py::test_ike_parser_json[IKE_LOG_V1_radius_pswd_wrong.txt-IKE_LOG_V1_radius_pswd_wrong.json] PASSED [ 30%]
+src/tests/test_app.py::test_ike_parser_json[IKE_LOG_V1_radius_succes.txt-IKE_LOG_V1_radius_succes.json] PASSED [ 31%]
+src/tests/test_app.py::test_ike_parser_json[IKE_LOG_V1_radius_username_wrong_v2.txt-IKE_LOG_V1_radius_username_wrong_v2.json] PASSED [ 32%]
+src/tests/test_app.py::test_ike_parser_json[IKE_LOG_V1_radius_wrong_account.txt-IKE_LOG_V1_radius_wrong_account.json] PASSED [ 33%]
+src/tests/test_app.py::test_ike_parser_json[IKE_LOG_V2.txt-IKE_LOG_V2.json] PASSED [ 34%]
+src/tests/test_app.py::test_ike_parser_json[IKE_LOG_V2_4500_initiator.txt-IKE_LOG_V2_4500_initiator.json] PASSED [ 35%]
+src/tests/test_app.py::test_ike_parser_json[IKE_LOG_V2_4500_responder.txt-IKE_LOG_V2_4500_responder.json] PASSED [ 36%]
+src/tests/test_app.py::test_ike_parser_json[IKE_LOG_V2_Mismatch.txt-IKE_LOG_V2_Mismatch.json] PASSED [ 37%]
+src/tests/test_app.py::test_ike_parser_json[IKE_LOG_V2_PSK.txt-IKE_LOG_V2_PSK.json] PASSED [ 38%]
+src/tests/test_app.py::test_ike_parser_json[IKE_LOG_V2_Partial_selector.txt-IKE_LOG_V2_Partial_selector.json] PASSED [ 39%]
+src/tests/test_app.py::test_ike_parser_json[IKE_LOG_V2_SAML_MANTIS_1023871.txt-IKE_LOG_V2_SAML_MANTIS_1023871.json] PASSED [ 40%]
+src/tests/test_app.py::test_ike_parser_json[IKE_LOG_V2_multiple_phase_2.txt-IKE_LOG_V2_multiple_phase_2.json] PASSED [ 41%]
+src/tests/test_app.py::test_ike_parser_json[IKE_LOG_V2_multiple_phase_2_initiator.txt-IKE_LOG_V2_multiple_phase_2_initiator.json] PASSED [ 42%]
+src/tests/test_app.py::test_ike_parser_json[IKE_LOG_V2_net_un.txt-IKE_LOG_V2_net_un.json] PASSED [ 43%]
+src/tests/test_app.py::test_ike_parser_json[IKE_LOG_V2_overlay_2_init.txt-IKE_LOG_V2_overlay_2_init.json] PASSED [ 44%]
+src/tests/test_app.py::test_ike_parser_json[IKE_LOG_V2_ph_2_TS_mismatch_initiator.txt-IKE_LOG_V2_ph_2_TS_mismatch_initiator.json] PASSED [ 45%]
+src/tests/test_app.py::test_ike_parser_json[IKE_LOG_V2_ph_2_TS_mismatch_responder.txt-IKE_LOG_V2_ph_2_TS_mismatch_responder.json] PASSED [ 46%]
+src/tests/test_app.py::test_ike_parser_json[IKE_LOG_V2_policy_not_found.txt-IKE_LOG_V2_policy_not_found.json] PASSED [ 47%]
+src/tests/test_app.py::test_ike_parser_json[IKE_LOG_V2_rekey.txt-IKE_LOG_V2_rekey.json] PASSED [ 48%]
+src/tests/test_app.py::test_ike_parser_json[IKE_LOG_auth_response.txt-IKE_LOG_auth_response.json] PASSED [ 49%]
+src/tests/test_app.py::test_ike_parser_json[IKE_LOG_init_no_policy.txt-IKE_LOG_init_no_policy.json] PASSED [ 50%]
+src/tests/test_app.py::test_ike_parser_json[IKE_LOG_passive_mode.txt-IKE_LOG_passive_mode.json] PASSED [ 51%]
+src/tests/test_app.py::test_ike_parser_json[IKE_LOG_peer_id.txt-IKE_LOG_peer_id.json] PASSED [ 52%]
+src/tests/test_app.py::test_ike_parser_json[IKE_LOG_pwd_LVS_radius_timeout.txt-IKE_LOG_pwd_LVS_radius_timeout.json] PASSED [ 53%]
+src/tests/test_app.py::test_ike_parser_json[IKE_LOG_pwd_mismatch.txt-IKE_LOG_pwd_mismatch.json] PASSED [ 54%]
+src/tests/test_app.py::test_ike_parser_json[IKE_LOG_pwd_psk_mismatch.txt-IKE_LOG_pwd_psk_mismatch.json] PASSED [ 55%]
+src/tests/test_app.py::test_ike_parser_json[IKE_LOG_pwd_radius_auth.txt-IKE_LOG_pwd_radius_auth.json] PASSED [ 56%]
+src/tests/test_app.py::test_ike_parser_json[IKE_LOG_pwd_radius_auth_cert.txt-IKE_LOG_pwd_radius_auth_cert.json] PASSED [ 57%]
+src/tests/test_app.py::test_ike_parser_json[IKE_LOG_pwd_radius_auth_fail.txt-IKE_LOG_pwd_radius_auth_fail.json] PASSED [ 58%]
+src/tests/test_app.py::test_ike_parser_json[IKE_LOG_retrans.txt-IKE_LOG_retrans.json] PASSED [ 59%]
+src/tests/test_app.py::test_ike_parser_json[IKE_Log_cert_auth.txt-IKE_Log_cert_auth.json] PASSED [ 60%]
+src/tests/test_app.py::test_ike_parser_json[IKE_Log_cert_auth_fail.txt-IKE_Log_cert_auth_fail.json] PASSED [ 61%]
+src/tests/test_app.py::test_ike_parser_json[IKE_Log_combined_all.txt-IKE_Log_combined_all.json] PASSED [ 62%]
+src/tests/test_app.py::test_ike_parser_json[IKE_SAMPLE_LOG.txt-IKE_SAMPLE_LOG.json] PASSED [ 63%]
+src/tests/test_app.py::test_ike_parser_json[IKE_V1_pwd_mismatch copy.txt-IKE_V1_pwd_mismatch copy.json] PASSED [ 64%]
+src/tests/test_app.py::test_ike_parser_json[fake_VPN_NETWORK_ID.txt-fake_VPN_NETWORK_ID.json] PASSED [ 65%]
+src/tests/test_app.py::test_ike_parser_json[fake_cert_auth_detection.txt-fake_cert_auth_detection.json] PASSED [ 66%]
+src/tests/test_app.py::test_ike_parser_json[fake_comes_test.txt-fake_comes_test.json] PASSED [ 67%]
+src/tests/test_app.py::test_ike_parser_json[fake_delete_notifications.txt-fake_delete_notifications.json] PASSED [ 68%]
+src/tests/test_app.py::test_ike_parser_json[fake_dpd.txt-fake_dpd.json] PASSED [ 69%]
+src/tests/test_app.py::test_ike_parser_json[fake_fnbamd_results.txt-fake_fnbamd_results.json] PASSED [ 70%]
+src/tests/test_app.py::test_ike_parser_json[fake_ftk_token.txt-fake_ftk_token.json] PASSED [ 71%]
+src/tests/test_app.py::test_ike_parser_json[fake_gw_validation.txt-fake_gw_validation.json] PASSED [ 72%]
+src/tests/test_app.py::test_ike_parser_json[fake_ike_moving_route.txt-fake_ike_moving_route.json] PASSED [ 73%]
+src/tests/test_app.py::test_ike_parser_json[fake_ike_sa_deletion.txt-fake_ike_sa_deletion.json] PASSED [ 74%]
+src/tests/test_app.py::test_ike_parser_json[fake_ikev1_auth-group-eapid.txt-fake_ikev1_auth-group-eapid.json] PASSED [ 75%]
+src/tests/test_app.py::test_ike_parser_json[fake_ikev1_auth-user-group-eapid.txt-fake_ikev1_auth-user-group-eapid.json] PASSED [ 76%]
+src/tests/test_app.py::test_ike_parser_json[fake_ikev1_auth-user.txt-fake_ikev1_auth-user.json] PASSED [ 77%]
+src/tests/test_app.py::test_ike_parser_json[fake_ikev1_isakmp_delete.txt-fake_ikev1_isakmp_delete.json] PASSED [ 78%]
+src/tests/test_app.py::test_ike_parser_json[fake_ikev1_radius_server_connectivity_issue.txt-fake_ikev1_radius_server_connectivity_issue.json] PASSED [ 79%]
+src/tests/test_app.py::test_ike_parser_json[fake_ikev2_eap_empty_response.txt-fake_ikev2_eap_empty_response.json] PASSED [ 80%]
+src/tests/test_app.py::test_ike_parser_json[fake_ikev2_eap_no-user-group-id.txt-fake_ikev2_eap_no-user-group-id.json] PASSED [ 81%]
+src/tests/test_app.py::test_ike_parser_json[fake_ikev2_eap_no_user.txt-fake_ikev2_eap_no_user.json] PASSED [ 82%]
+src/tests/test_app.py::test_ike_parser_json[fake_ikev2_fnbamd_code.txt-fake_ikev2_fnbamd_code.json] PASSED [ 83%]
+src/tests/test_app.py::test_ike_parser_json[fake_ikev2_radius_response.txt-fake_ikev2_radius_response.json] PASSED [ 84%]
+src/tests/test_app.py::test_ike_parser_json[fake_ldap_response_error.txt-fake_ldap_response_error.json] PASSED [ 85%]
+src/tests/test_app.py::test_ike_parser_json[fake_negotiation_timeout.txt-fake_negotiation_timeout.json] PASSED [ 86%]
+src/tests/test_app.py::test_ike_parser_json[fake_psk_auth_bc.txt-fake_psk_auth_bc.json] PASSED [ 87%]
+src/tests/test_app.py::test_ike_parser_json[fake_twin_connection.txt-fake_twin_connection.json] PASSED [ 88%]
+src/tests/test_app.py::test_ike_parser_json[fake_vpn_network_id.txt-fake_vpn_network_id.json] PASSED [ 89%]
+src/tests/test_app.py::test_ike_parser_json[ike_fnbamd_local.txt-ike_fnbamd_local.json] PASSED [ 90%]
+src/tests/test_app.py::test_ike_parser_json[mani_sir_log.txt-mani_sir_log.json] PASSED [ 91%]
+src/tests/test_app.py::test_extract_lines PASSED                         [ 92%]
+src/tests/test_app.py::test_ike_parser_with_file PASSED                  [ 93%]
+src/tests/test_app.py::test_empty_input PASSED                           [ 94%]
+src/tests/test_app.py::test_no_matching_lines PASSED                     [ 95%]
+src/tests/test_output_handler.py::test_analysis_result_init PASSED       [ 96%]
+src/tests/test_output_handler.py::test_analysis_result_force_strings PASSED [ 97%]
+src/tests/test_output_handler.py::test_analysis_result_serialization PASSED [ 98%]
+src/tests/test_output_handler.py::test_analysis_result_deserialization PASSED [ 99%]
+src/tests/test_output_handler.py::test_analysis_result_deserialization_error PASSED [100%]
+
+============================= 100 passed in 0.80s ==============================
+[8mha:////4Iqi8gop90bYrXS3xwh1A9qsC8qBtM6GDQ6BdP43wCs6AAAApB+LCAAAAAAAAP9tjbEOwiAURV9rHFwd/QiaNG7GyZWw+AXYIkLJexSodPKL/DX/QbSJk3e4uecu5/mCdQxwpKCZVTgYjJ1h3k26LJYpDFdHmVm6sI4wklNMqCyoV6cFBSUFS6oaVhw2CjtH0aBOsOVW3mXjJOrmnEL5Dhxq04/wgIoXc5IhfWEOsLtNfST8ef4KYPY+Qd3uP9W+Ad3NsHm+AAAA[0m[Pipeline] }
+[8mha:////4Ciu3Nk07ECzGJMwRRK8G7mPF2/rzZiPKRSSI9pGDcgIAAAApB+LCAAAAAAAAP9tjTEOwjAQBC9BFLSUPOIikKgQVVrLDS8wsTFOrDtjOyQVL+Jr/IFAJCq2WO1sM88XLFOEI0eLraHOUWocBt/baeHAsbt4HrDlMzZMib1BaQbJ2tQzSs4G5hQlLASsDDWekyObYS1adVeVV2SrU47TdxBQOn2DBxRiMmcV8xfGCJtrrxPTz/NXAGMIGcrd/lPbN8JP5Su+AAAA[0m[Pipeline] // script
+[8mha:////4Lel8ejc2HKGFcEW/xF7jlCWyNF98qZv3klvFchGWHICAAAApB+LCAAAAAAAAP9tjTEOwjAQBC9BFLSUPOKCKGgQVVrLDS8wsTFOrDtjOyQVL+Jr/IFAJCq2WO1sM88XLFOEI0eLraHOUWocBt/baeHAsbt4HrDlMzZMib1BaQbJ2tQzSs4G5hQlLASsDDWekyObYS1adVeVV2SrU47TdxBQOn2DBxRiMmcV8xfGCJtrrxPTz/NXAGMIGcrd/lPbN/oNdtq+AAAA[0m[Pipeline] }
+[8mha:////4Lh/SbZeokUFwQ1tTRBAiHkn5vVN2lgAwC02Np5gZg39AAAApR+LCAAAAAAAAP9tjTEOwjAQBC9BFLSUPOIiaBBCqWgtN7zAJMY4se6C7eBUvIiv8QcsIlGxxWpnm3m9YRk81OwNdpp6S6GxOLjR5IWJfX91nLDjCzZMgZ1GqZPkVp9mlBw1zClKWAhYaWocB0smwlp06qEqp8hU5+jzdxRQ2vYOTyhENkfl4xcmD5vb2Aamn+evAKZhiFDu9rm2hw84NdtDvgAAAA==[0m[Pipeline] // dir
+[8mha:////4GYF8Lq+qf1WqLz5lSYFdzjtAZQUlTbGsB8pK6hhfMMNAAAApR+LCAAAAAAAAP9tjTEOwjAQBC9BFLSUPOIiqCIhqrRWGl5gYmOcWHfGdkgqXsTX+AMWkajYYrWzzbzesI4BThwM9poGS7Gz6N1o8sKJw3B1PGHPF+yYIjuNrZ5aVrpZsOWkYUlRwkrARlPnOFoyCbailw9ZOUmmOqeQv6OA0qo7PKEQ2ZxkSF+YA+xuo4pMP89fAczeJygPda59/QF7t4rFvgAAAA==[0m[Pipeline] }
+[8mha:////4L97ip2yz07Ibg5JzTnun/D5ZyDajG53/uxZ4Eh5MOhoAAAApR+LCAAAAAAAAP9tjTEOwjAQBC9BFLSUPOIiaBBCqWgtN7zAJMY4se6C7eBUvIiv8QcsIlGxxWpnm3m9YRk81OwNdpp6S6GxOLjR5IWJfX91nLDjCzZMgZ1GqZPkVp9mlBw1zClKWAhYaWocB0smwlp06qEqp8hU5+jzdxRQ2vYOTyhENkfl4xcmD5vb2Aamn+evAKZhiFDuDrm2+w9PeWmevgAAAA==[0m[Pipeline] // stage
+[8mha:////4Mejvr/xC9bDE5O+zgEAT+fsO2IGWdYrChOGCCnrL+4GAAAApx+LCAAAAAAAAP9tjTEOwjAQBM9BKWgpeYSDhESDqGgtN7zAxMY4se6CfSGpeBFf4w8EIlGx1c5Kq3m+oMwJDpS8bBy2AXMdZBd7PzU5UGovkQbZ0FnWhJmik9oNmqw7zqiJHcwRBSwULB3WkXJAz7BSjbmbKhr01YnTtO0VFMHe4AFCTWY2ib8wJlhfe5sJf56/Ahg7BrFjKLabz7F8A15M2Z7BAAAA[0m[Pipeline] stage
+[8mha:////4FQzOk9FD/hDVkCZbnNhMz4uH1JHii0lHnr0U6NEhCe5AAAAph+LCAAAAAAAAP9tjTEOwjAUQ3+LOrAycogUxIiYukZZOEFoQkgb/V9+UtqJE3E17kBLJSY8WLYl673eUESGE7ETjcXWY6y96ELvpiQG4vYaaBANXURNGClYoeygyNhqqYqShUVZDisJa4t1oOjRJdjIRj90GTS68px42o4Scm/u8IRMTuSkOX3LyLC99SYS/jh/ATB2CfLDbrb9/Cw+ty4Up8IAAAA=[0m[Pipeline] { (Run Tests with Coverage)
+[8mha:////4DIuoBvs2SXwaYleEoGh17I0Xj4TJvoR6Uiht9Ww2OiOAAAAph+LCAAAAAAAAP9tjTEOwjAUQ3+LOrAycohUwIiYukZZOEFoQkgb/V9+UtqJE3E17kBLJSY8WLYl673eUESGE7ETjcXWY6y96ELvpiQG4vYaaBANXURNGClYoeygyNhqqYqShUVZDisJa4t1oOjRJdjIRj90GTS68px42o4Scm/u8IRMTuSkOX3LyLC99SYS/jh/ATB2CfLDbrb9/Cw+2YMO4MIAAAA=[0m[Pipeline] dir
+Running in /var/lib/jenkins/.jenkins/workspace/Gui_IKE_final/gui_ike_debugger
+[8mha:////4ChKquhqX4ksfl3qSI3PNksBk90U8ZyYzhWeSbVLUf1iAAAAph+LCAAAAAAAAP9tjTEOwjAUQ3+DOrAycohUoiNiYo26cILQhJA0+r9NUtKJE3E17kBLJSY8WLYl673eUMYAJwqGO42dxdha3vvRzIlnCt3NU+aOrrwljOQ1b3RuSOnzWhtKGlYVDDYCthpbT9GiSbATTj5k5SWa6pLCvB0FMKsGeEIhZnKSIX3LFGB/H1Uk/HH+AmDqE7D6sFi9PMsPfTawssIAAAA=[0m[Pipeline] {
+[8mha:////4CqsIAjFDk1X/k7dtHFvv9V1wj7X9O9EyMKeWBRLMmAwAAAAox+LCAAAAAAAAP9tjTESwiAURH/iWNhaeghSxM6xsmVoPAEmiBDmfwJEUnkir+YdRDNj5RY7+7Z5zxesY4AjBc2swsFg7AzzbtJlsUxhuDrKzNKFdYSRnGJCZUG9Oi0oKClYUtWw4rBR2DmKBnWCLbfyLhsnUTfnFMp34FCbfoQHVLyYkwzpC3OA3W3qI+HP81cAs09Qt+2n9v4NGWcPtb4AAAA=[0m[Pipeline] sh
++ pytest --cov=gui_ike_debugger tests/
+/usr/lib/python3/dist-packages/coverage/inorout.py:503: CoverageWarning: Module gui_ike_debugger was never imported. (module-not-imported)
+  self.warn(f"Module {pkg} was never imported.", slug="module-not-imported")
+/usr/lib/python3/dist-packages/coverage/control.py:887: CoverageWarning: No data was collected. (no-data-collected)
+  self._warn("No data was collected.", slug="no-data-collected")
+/usr/lib/python3/dist-packages/pytest_cov/plugin.py:312: CovReportWarning: Failed to generate report: No data to report.
+
+  warnings.warn(CovReportWarning(message))
+============================= test session starts ==============================
+platform linux -- Python 3.12.3, pytest-7.4.4, pluggy-1.4.0
+rootdir: /var/lib/jenkins/.jenkins/workspace/Gui_IKE_final/gui_ike_debugger
+plugins: cov-4.1.0
+collected 0 items
+WARNING: Failed to generate report: No data to report.
+
+
+
+---------- coverage: platform linux, python 3.12.3-final-0 -----------
+
+============================ no tests ran in 0.01s =============================
+[8mha:////4DzFcg1C2/GE/awLXT4j1Yy5B8wsu+VGW4Hj44CHQvlVAAAAox+LCAAAAAAAAP9tjTESwiAURH/iWNhaeghSZKwcK1uGxhNggghh/idAJJUn8mreQTQzVm6xs2+b93zBOgY4UtDMKhwMxs4w7yZdFssUhqujzCxdWEcYySkmVBbUq9OCgpKCJVUNKw4bhZ2jaFAn2HIr77JxEnVzTqF8Bw616Ud4QMWLOcmQvjAH2N2mPhL+PH8FMHufoG73n2rfGxSHer4AAAA=[0m[Pipeline] }
+[8mha:////4BMeNIROUXEeyzrc5qvhEfRPvdbbRCmcbICLknZEP8CKAAAApR+LCAAAAAAAAP9tjTEOwjAQBC9BFLSUPOIigUSDqNJabniBiY1xYt0Z2yGpeBFf4w8EIlGxxWpnm3m+YJkiHDlabA11jlLjMPjeTgsHjt3F84Atn7FhSuwNSjNI1qaeUXI2MKcoYSFgZajxnBzZDGvRqruqvCJbnXKcvoOA0ukbPKAQkzmrmL8wRthce52Yfp6/AhhDyFDu9p/avgEjVhSLvgAAAA==[0m[Pipeline] // dir
+[8mha:////4Lw853hwGw3VWjCRGGEZ3VDkXdd2iniqJwLzr+Lke+zZAAAApR+LCAAAAAAAAP9tjTEOwjAQBC9BFLSUPOIiREGBqNJabniBiY1xYt0Z2yGpeBFf4w8EIlGxxWpnm3m+YJkiHDlabA11jlLjMPjeTgsHjt3F84Atn7FhSuwNSjNI1qaeUXI2MKcoYSFgZajxnBzZDGvRqruqvCJbnXKcvoOA0ukbPKAQkzmrmL8wRthce52Yfp6/AhhDyFDu9p/avgE81EHZvgAAAA==[0m[Pipeline] }
+[8mha:////4OiPO6OZinXHPIn91FFvoQE9MS6NHt3c7i+P2xbCiSe7AAAApR+LCAAAAAAAAP9tjTEOwjAQBC9BFLSUPOKCRIOEqNJabniBiY1xYt0Z2yGpeBFf4w8EIlGxxWpnm3m+YJkiHDlabA11jlLjMPjeTgsHjt3F84Atn7FhSuwNSjNI1qaeUXI2MKcoYSFgZajxnBzZDGvRqruqvCJbnXKcvoOA0ukbPKAQkzmrmL8wRthce52Yfp6/AhhDyFDu9p/avgF/VhBfvgAAAA==[0m[Pipeline] // stage
+[8mha:////4DJoYs2eyHioYeb1O9LGWUR7B0PPRsIGq9finURPSJYfAAAApx+LCAAAAAAAAP9tjTEOwjAQBM9BKWgpeYRTICEhREVrueEFJjbGiXUX7AtJxYv4Gn8gEImKrXZWWs3zBWVOcKDkZeOwDZjrILvY+6nJgVJ7iTTIhs6yJswUndRu0GTdcUZN7GCOKGChYOmwjpQDeoaVaszdVNGgr06cpm2voAj2Bg8QajKzSfyFMcH62ttM+PP8FcDYMYgtQ7HZfY7lG5Yd1rnBAAAA[0m[Pipeline] stage
+[8mha:////4LTVC2bDeIb+zpye/GAsc5kooWGKlQxTtbUyHaKfxbAxAAAAqB+LCAAAAAAAAP9tjTEOwjAUQ3+LOrAycogUCRaEOrFGXThBaEJIGv1fkpR04kRcjTsQqMSEB8u2ZL3nC6rgoSGvmVXYGwydYYMbdU4ske8vjhKzdGYdYSCnWKtSS1Id59pSVDCrKGHBYamwcxQM6ggrbsVd1E6grk/R5+3AoTTyBg8oeCZH4eO3TB7W11EGwh/nLwCmIUK53WfbbT7P6g0Z/aLSwgAAAA==[0m[Pipeline] { (Check Coverage)
+Stage "Check Coverage" skipped due to earlier failure(s)
+[8mha:////4EIdPDQ+6sUTd0OTsbPWWIzQNsRSzhjMNPWkB3H2RwShAAAApB+LCAAAAAAAAP9tjTEOwjAQBC9BFLSUPOICEh2iSmu54QUmNsaJdWdsh6TiRXyNPxCIRMUWq51t5vmCZYpw5GixNdQ5So3D4Hs7LRw4dhfPA7Z8xoYpsTcozSBZm3pGydnAnKKEhYCVocZzcmQzrEWr7qryimx1ynH6DgJKp2/wgEJM5qxi/sIYYXPtdWL6ef4KYAwZyv32U7vwBl2WGva+AAAA[0m[Pipeline] getContext
+[8mha:////4HTekJYzpUNf7tdy1PGG+ePI+vxtS6WBSNSwd1R4VAEQAAAApB+LCAAAAAAAAP9tjTEOwjAQBC9BFLSUPOKCEB2iSmu54QUmNsaJdWdsh6TiRXyNPxCIRMUWq51t5vmCZYpw5GixNdQ5So3D4Hs7LRw4dhfPA7Z8xoYpsTcozSBZm3pGydnAnKKEhYCVocZzcmQzrEWr7qryimx1ynH6DgJKp2/wgEJM5qxi/sIYYXPtdWL6ef4KYAwhQ7nffWr7BlDdbXS+AAAA[0m[Pipeline] }
+[8mha:////4KDlbaXe2VLRvJIwgBkQKaIyIe9emzp+ytQ6Mzr6hiK6AAAApR+LCAAAAAAAAP9tjTEOwjAQBC9BFLSUPOJShAYhqrRWGl5gYmOcWHfGdkgqXsTX+AMWkajYYrWzzbzesI4BThwM9poGS7Gz6N1o8sKJw3B1PGHPF+yYIjuNrZ5aVrpZsOWkYUlRwkrARlPnOFoyCbailw9ZOUmmOqeQv6OA0qo7PKEQ2ZxkSF+YA+xuo4pMP89fAczeJyj3da768AGWIKyJvgAAAA==[0m[Pipeline] // stage
+[8mha:////4FnpeAUe3PjqpalpR06FpQ43JV9FObLUWcxRa6CmWRi8AAAAox+LCAAAAAAAAP9tjTESgjAQRT84FraWHiI0jI1jZZuh8QQRYgxkdjFZhMoTeTXvICMzVv7qv9e81xvrFHHk6FRrqfOUaq/6MLj5qZFjdw08qpYvqmZKHKyq7FhxY08LViwWy7IcK42NpTpw8uQEW92ahymCIVecJc7uoJH75o4nMj2XxUT5whSxuw1NYvp1/gYw9b0gL0tBtv8A2n0Gmb0AAAA=[0m[Pipeline] }
+[8mha:////4A0Hn8bXGdsS5vGbZhVmY9swMZpVPHEACB6uzg1OSWYhAAAAoh+LCAAAAAAAAP9tjTESgjAQRT84FraWHiI0UjlWthkaTxAhxkBmF5NFqDyRV/MOMjJj5a/+e817vbFOEUeOTrWWOk+p9qoPg5ufGjl218CjavmiaqbEwarKjhU39rRgxWKxLMux0thYqgMnT06w1a15mCIYcsVZ4uwOGrlv7ngi03NZTJQvTBG729Akpl/nbwBT3wvyfSnIyg/QBW89vQAAAA==[0m[Pipeline] // withEnv
+[8mha:////4NDPC13itRxPP8b62Js7ffW1N/xy0oUbRT6x2kKUH9PwAAAAox+LCAAAAAAAAP9tjTESgjAQRT84FraWHiI0jI1jZZuh8QQRYgxkdjFZhMoTeTXvICMzVv7qv9e81xvrFHHk6FRrqfOUaq/6MLj5qZFjdw08qpYvqmZKHKyq7FhxY08LViwWy7IcK42NpTpw8uQEW92ahymCIVecJc7uoJH75o4nMj2XxUT5whSxuw1NYvp1/gYw9b0gL/eCrPwAlk/IDb0AAAA=[0m[Pipeline] }
+[8mha:////4I7CwfSz2Z6+b8eoVMNy/K2q16VQvAwmp/E4ozpl3JfjAAAApB+LCAAAAAAAAP9tjTEOwjAQBDdBFLSUPMIpQKJAVLRWGl5gEmOcWHfBvpBUvIiv8QciIlGx1c4083pjmSKOHJ1qLLWeUuVVF3o3PTVwbK+BB9XwRVVMiYNVpR1Kru1pxpLFYl6WY6GxslQFTp6cYK0b8zBFMOSKs8TJHTRyX9/xRKanspgoXxgjNre+Tky/zt8Axq4T5Lu9INt+AIXzzK69AAAA[0m[Pipeline] // node
+[8mha:////4DvSh4moesHqMES+vrNOwj62jH1WyhhLOKBBDglqLlKyAAAApB+LCAAAAAAAAP9tjTEOwjAQBDdBFLSUPMKREAUSoqK10vACkxjjxLoL9oWk4kV8jT8QEYmKrXammdcbyxRx5OhUY6n1lCqvutC76amBY3sNPKiGL6piShysKu1Qcm1PM5YsFvOyHAuNlaUqcPLkBGvdmIcpgiFXnCVO7qCR+/qOJzI9lcVE+cIYsbn1dWL6df4GMHadIN/tBdn2A8JUm1u9AAAA[0m[Pipeline] End of Pipeline
+ERROR: script returned exit code 5
+Finished: FAILURE
